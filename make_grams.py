@@ -4,7 +4,7 @@ import json
 import re
 import string
 
-N = 4
+N = 7
 filename = "psalms.json"
 filename_out = "grams.%d.txt" % N
 f = open(filename, "r")

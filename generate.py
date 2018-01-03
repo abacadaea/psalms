@@ -5,9 +5,11 @@ import random
 import re
 import string
 
-N = 3
+N = 7
 filename_in = "grams.%d.txt" % N
-f = open(filename_in, "r")
+filename_out = "psalms.%d.txt" % N
+fin = open(filename_in, "r")
+fout = open(filename_out, "w")
 
 def sample(d):
     r = random.random() * d["NUM"]
@@ -23,7 +25,7 @@ def sample(d):
 seeds = []
 
 lookup = {}
-for line in f.readlines():
+for line in fin.readlines():
     words = line.split()
     if words[0] == "BEGIN_PSALM":
         seeds.append(words)
@@ -37,10 +39,10 @@ for line in f.readlines():
         lookup[tup][words[-1]] = 0
     lookup[tup][words[-1]] += 1
 
-print seeds
-sentence = random.choice(seeds)
-while sentence[-1] != "END_PSALM":
-    tup = tuple(sentence[-(N-1):])
-    next_word = sample(lookup[tup])
-    sentence.append(next_word)
-print ' '.join(sentence)
+for i in range(100):
+    sentence = random.choice(seeds)
+    while sentence[-1] != "END_PSALM":
+        tup = tuple(sentence[-(N-1):])
+        next_word = sample(lookup[tup])
+        sentence.append(next_word)
+    fout.write(' '.join(sentence) + '\n')

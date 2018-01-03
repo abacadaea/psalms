@@ -1,3 +1,4 @@
+BEGIN_PSALM Blessed
 Blessed is
 is the
 the man
@@ -136,7 +137,8 @@ the wicked
 wicked will
 will perish
 perish .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Why
 Why do
 do the
 the nations
@@ -367,7 +369,8 @@ take refuge
 refuge in
 in him
 him .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , how
@@ -517,7 +520,8 @@ on your
 your people
 people !
 ! Selah
-Selah END_OF_PSALM
+Selah END_PSALM
+BEGIN_PSALM Answer
 Answer me
 me when
 when I
@@ -699,7 +703,8 @@ me dwell
 dwell in
 in safety
 safety .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Give
 Give ear
 ear to
 to my
@@ -973,7 +978,8 @@ as with
 with a
 a shield
 shield .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , rebuke
@@ -1165,7 +1171,8 @@ shame in
 in a
 a moment
 moment .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD my
 my God
@@ -1520,7 +1527,8 @@ LORD ,
 the Most
 Most High
 High .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , our
@@ -1710,7 +1718,8 @@ in all
 all the
 the earth
 earth !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I will
 will give
 give thanks
@@ -2119,7 +2128,8 @@ are but
 but men
 men !
 ! Selah
-Selah END_OF_PSALM
+Selah END_PSALM
+BEGIN_PSALM Why
 Why ,
 , O
 O LORD
@@ -2526,7 +2536,8 @@ strike terror
 terror no
 no more
 more .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM In
 In the
 the LORD
 LORD I
@@ -2678,7 +2689,8 @@ shall behold
 behold his
 his face
 face .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Save
 Save ,
 , O
 O LORD
@@ -2851,7 +2863,8 @@ the children
 children of
 of man
 man .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM How
 How long
 long ,
 , O
@@ -2978,7 +2991,8 @@ dealt bountifully
 bountifully with
 with me
 me .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The fool
 fool says
 says in
@@ -3145,7 +3159,8 @@ let Israel
 Israel be
 be glad
 glad .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , who
@@ -3261,7 +3276,8 @@ shall never
 never be
 be moved
 moved .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Preserve
 Preserve me
 me ,
 , O
@@ -3482,7 +3498,8 @@ hand are
 are pleasures
 pleasures forevermore
 forevermore .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Hear
 Hear a
 a just
 just cause
@@ -3816,7 +3833,8 @@ My Rock
 Rock and
 and My
 My Fortress
-Fortress END_OF_PSALM
+Fortress END_PSALM
+BEGIN_PSALM :
 : I
 I love
 love you
@@ -4809,7 +4827,8 @@ and his
 his offspring
 offspring forever
 forever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The heavens
 heavens declare
 declare the
@@ -5127,7 +5146,8 @@ of the
 the LORD
 LORD Our
 Our God
-God END_OF_PSALM
+God END_PSALM
+BEGIN_PSALM May
 May the
 the LORD
 LORD answer
@@ -5305,7 +5325,8 @@ in the
 the LORD
 LORD 's
 's Strength
-Strength END_OF_PSALM
+Strength END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , in
@@ -5559,7 +5580,8 @@ and praise
 praise your
 your power
 power .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM My
 My God
 God ,
 , my
@@ -6207,7 +6229,8 @@ he has
 has done
 done it
 it .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The LORD
 LORD is
 is my
@@ -6337,7 +6360,8 @@ of the
 the LORD
 LORD forever
 forever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The earth
 earth is
 is the
@@ -6546,7 +6570,8 @@ King of
 of glory
 glory !
 ! Selah
-Selah END_OF_PSALM
+Selah END_PSALM
+BEGIN_PSALM To
 To you
 you ,
 , O
@@ -6954,7 +6979,8 @@ of all
 all his
 his troubles
 troubles .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Vindicate
 Vindicate me
 me ,
 , O
@@ -7165,7 +7191,8 @@ My Light
 Light and
 and My
 My Salvation
-Salvation END_OF_PSALM
+Salvation END_PSALM
+BEGIN_PSALM The
 The LORD
 LORD is
 is my
@@ -7553,7 +7580,8 @@ My Strength
 Strength and
 and My
 My Shield
-Shield END_OF_PSALM
+Shield END_PSALM
+BEGIN_PSALM To
 To you
 you ,
 , O
@@ -7797,7 +7825,8 @@ and carry
 carry them
 them forever
 forever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Ascribe
 Ascribe to
 to the
 the LORD
@@ -7996,7 +8025,8 @@ his people
 people with
 with peace
 peace !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I will
 will extol
 extol you
@@ -8267,7 +8297,8 @@ thanks to
 to you
 you forever
 forever !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM In
 In you
 you ,
 , O
@@ -8849,7 +8880,8 @@ wait for
 for the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Blessed
 Blessed is
 is the
 the one
@@ -9115,7 +9147,8 @@ you upright
 upright in
 in heart
 heart !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Shout
 Shout for
 for joy
 joy in
@@ -9511,7 +9544,8 @@ we hope
 hope in
 in you
 you .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM I
 I will
 will bless
 bless the
@@ -9892,7 +9926,8 @@ him will
 will be
 be condemned
 condemned .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Contend
 Contend ,
 , O
 O LORD
@@ -10516,7 +10551,8 @@ Precious Is
 Is Your
 Your Steadfast
 Steadfast Love
-Love END_OF_PSALM
+Love END_PSALM
+BEGIN_PSALM Transgression
 Transgression speaks
 speaks to
 to the
@@ -10760,7 +10796,8 @@ down ,
 unable to
 to rise
 rise .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Fret
 Fret not
 not yourself
 yourself because
@@ -11514,7 +11551,8 @@ take refuge
 refuge in
 in him
 him .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , rebuke
@@ -11914,7 +11952,8 @@ Lord ,
 , my
 my salvation
 salvation !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I said
 said ,
 , "I
@@ -12237,7 +12276,8 @@ am no
 no more
 more !
 ! "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM I
 I waited
 waited patiently
 patiently for
@@ -12707,7 +12747,8 @@ delay ,
 O my
 my God
 God !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Blessed
 Blessed is
 is the
 the one
@@ -12983,7 +13024,8 @@ from everlasting
 everlasting to
 to everlasting
 everlasting !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM As
 As a
 a deer
 deer pants
@@ -13293,7 +13335,8 @@ salvation and
 and my
 my God
 God .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Vindicate
 Vindicate me
 me ,
 , O
@@ -13441,7 +13484,8 @@ salvation and
 and my
 my God
 God .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , we
@@ -13945,7 +13989,8 @@ of your
 your steadfast
 steadfast love
 love !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM My
 My heart
 heart overflows
 overflows with
@@ -14298,7 +14343,8 @@ you forever
 forever and
 and ever
 ever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM God
 God is
 is our
 our refuge
@@ -14517,7 +14563,8 @@ is our
 our fortress
 fortress .
 . Selah
-Selah END_OF_PSALM
+Selah END_PSALM
+BEGIN_PSALM Clap
 Clap your
 your hands
 hands ,
@@ -14675,7 +14722,8 @@ he is
 is highly
 highly exalted
 exalted !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Great
 Great is
 is the
 the LORD
@@ -14941,7 +14989,8 @@ in Times
 Times of
 of Trouble
 Trouble ?
-? END_OF_PSALM
+? END_PSALM
+BEGIN_PSALM Hear
 Hear this
 this ,
 , all
@@ -15312,7 +15361,8 @@ the beasts
 beasts that
 that perish
 perish .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The Mighty
 Mighty One
 One ,
@@ -15764,7 +15814,8 @@ Clean Heart
 Heart ,
 , O
 O God
-God END_OF_PSALM
+God END_PSALM
+BEGIN_PSALM Have
 Have mercy
 mercy on
 on me
@@ -16134,7 +16185,8 @@ offered on
 on your
 your altar
 altar .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Why
 Why do
 do you
 you boast
@@ -16328,7 +16380,8 @@ presence of
 of the
 the godly
 godly .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The fool
 fool says
 says in
@@ -16496,7 +16549,8 @@ let Israel
 Israel be
 be glad
 glad .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , save
@@ -16630,7 +16684,8 @@ triumph on
 on my
 my enemies
 enemies .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Give
 Give ear
 ear to
 to my
@@ -17114,7 +17169,8 @@ will trust
 trust in
 in you
 you .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Be
 Be gracious
 gracious to
 to me
@@ -17379,7 +17435,8 @@ Be over
 over All
 All the
 the Earth
-Earth END_OF_PSALM
+Earth END_PSALM
+BEGIN_PSALM Be
 Be merciful
 merciful to
 to me
@@ -17649,7 +17706,8 @@ over all
 all the
 the earth
 earth !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Do
 Do you
 you indeed
 indeed decree
@@ -17869,7 +17927,8 @@ judges on
 on earth
 earth .
 . "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM Deliver
 Deliver me
 me from
 from my
@@ -18269,7 +18328,8 @@ shows me
 me steadfast
 steadfast love
 love .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , you
@@ -18507,7 +18567,8 @@ tread down
 down our
 our foes
 foes .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Hear
 Hear my
 my cry
 cry ,
@@ -18656,7 +18717,8 @@ vows day
 day after
 after day
 day .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM For
 For God
 God alone
 alone my
@@ -18919,7 +18981,8 @@ according to
 to his
 his work
 work .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , you
@@ -19145,7 +19208,8 @@ liars will
 will be
 be stopped
 stopped .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Hear
 Hear my
 my voice
 voice ,
@@ -19337,7 +19401,8 @@ upright in
 in heart
 heart exult
 exult !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise is
 is due
 due to
@@ -19619,7 +19684,8 @@ sing together
 together for
 for joy
 joy .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Shout
 Shout for
 for joy
 joy to
@@ -19999,7 +20065,8 @@ steadfast love
 love from
 from me
 me !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM May
 May God
 God be
 be gracious
@@ -20122,7 +20189,8 @@ the earth
 earth fear
 fear him
 him !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM God
 God shall
 shall arise
 arise ,
@@ -20896,7 +20964,8 @@ people .
 Blessed be
 be God
 God !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Save
 Save me
 me ,
 , O
@@ -21657,7 +21726,8 @@ shall dwell
 dwell in
 in it
 it .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Make
 Make haste
 haste ,
 , O
@@ -21782,7 +21852,8 @@ Not When
 When My
 My Strength
 Strength Is
-Is END_OF_PSALM
+Is END_PSALM
+BEGIN_PSALM In
 In you
 you ,
 , O
@@ -22323,7 +22394,8 @@ to do
 do me
 me hurt
 hurt .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Give
 Give the
 the king
 king your
@@ -22736,7 +22808,8 @@ My Strength
 Strength and
 and Portion
 Portion Forever
-Forever END_OF_PSALM
+Forever END_PSALM
+BEGIN_PSALM Truly
 Truly God
 God is
 is good
@@ -23205,7 +23278,8 @@ of all
 all your
 your works
 works .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , why
@@ -23673,7 +23747,8 @@ which goes
 goes up
 up continually
 continually !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM We
 We give
 give thanks
 thanks to
@@ -23884,7 +23959,8 @@ shall be
 be lifted
 lifted up
 up .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM In
 In Judah
 Judah God
 God is
@@ -24112,7 +24188,8 @@ Trouble I
 I Seek
 Seek the
 the Lord
-Lord END_OF_PSALM
+Lord END_PSALM
+BEGIN_PSALM I
 I cry
 cry aloud
 aloud to
@@ -24485,7 +24562,8 @@ of Moses
 Moses and
 and Aaron
 Aaron .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Give
 Give ear
 ear ,
 , O
@@ -25789,7 +25867,8 @@ with his
 his skillful
 skillful hand
 hand .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , the
@@ -26093,7 +26172,8 @@ will recount
 recount your
 your praise
 praise .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Give
 Give ear
 ear ,
 , O
@@ -26470,7 +26550,8 @@ People Would
 Would Listen
 Listen to
 to Me
-Me END_OF_PSALM
+Me END_PSALM
+BEGIN_PSALM Sing
 Sing aloud
 aloud to
 to God
@@ -26783,7 +26864,8 @@ would satisfy
 satisfy you
 you .
 . "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM God
 God has
 has taken
 taken his
@@ -26924,7 +27006,8 @@ inherit all
 all the
 the nations
 nations !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM O
 O God
 God ,
 , do
@@ -27235,7 +27318,8 @@ the Courts
 Courts of
 of the
 the LORD
-LORD END_OF_PSALM
+LORD END_PSALM
+BEGIN_PSALM How
 How lovely
 lovely is
 is your
@@ -27493,7 +27577,8 @@ who trusts
 trusts in
 in you
 you !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM LORD
 LORD ,
 , you
 you were
@@ -27711,7 +27796,8 @@ his footsteps
 footsteps a
 a way
 way .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Incline
 Incline your
 your ear
 ear ,
@@ -28078,7 +28164,8 @@ me and
 and comforted
 comforted me
 me .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM On
 On the
 the holy
 holy mount
@@ -28206,7 +28293,8 @@ are in
 in you
 you .
 . "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , God
@@ -28562,7 +28650,8 @@ Steadfast Love
 Love of
 of the
 the LORD
-LORD END_OF_PSALM
+LORD END_PSALM
+BEGIN_PSALM I
 I will
 will sing
 sing of
@@ -29530,7 +29619,8 @@ forever !
 Amen and
 and Amen
 Amen .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Lord
 Lord ,
 , you
 you have
@@ -29882,7 +29972,8 @@ work of
 of our
 our hands
 hands !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM He
 He who
 who dwells
 dwells in
@@ -30193,7 +30284,8 @@ him my
 my salvation
 salvation .
 . "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM It
 It is
 is good
 good to
@@ -30465,7 +30557,8 @@ no unrighteousness
 unrighteousness in
 in him
 him .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The LORD
 LORD reigns
 reigns ;
@@ -30979,7 +31072,8 @@ will wipe
 wipe them
 them out
 out .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Oh
 Oh come
 come ,
 , let
@@ -31488,7 +31582,8 @@ peoples in
 in his
 his faithfulness
 faithfulness .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The LORD
 LORD reigns
 reigns ,
@@ -31706,7 +31801,8 @@ to his
 his holy
 holy name
 name !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Oh
 Oh sing
 sing to
 to the
@@ -31901,7 +31997,8 @@ the peoples
 peoples with
 with equity
 equity .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The LORD
 LORD reigns
 reigns ;
@@ -32085,7 +32182,8 @@ our God
 God is
 is holy
 holy !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Make
 Make a
 a joyful
 joyful noise
@@ -32183,7 +32281,8 @@ faithfulness to
 to all
 all generations
 generations .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM I
 I will
 will sing
 sing of
@@ -32379,7 +32478,8 @@ city of
 of the
 the LORD
 LORD .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Hear
 Hear my
 my prayer
 prayer ,
@@ -32881,7 +32981,8 @@ be established
 established before
 before you
 you .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Bless
 Bless the
 the LORD
 LORD ,
@@ -33949,7 +34050,8 @@ soul !
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Oh
 Oh give
 give thanks
 thanks to
@@ -35557,7 +35659,8 @@ say ,
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Oh
 Oh give
 give thanks
 thanks to
@@ -36296,7 +36399,8 @@ love of
 of the
 the LORD
 LORD .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM My
 My heart
 heart is
 is steadfast
@@ -36536,7 +36640,8 @@ tread down
 down our
 our foes
 foes .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Be
 Be not
 not silent
 silent ,
@@ -37121,7 +37226,8 @@ his soul
 soul to
 to death
 death .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM The
 The LORD
 LORD says
 says to
@@ -37276,7 +37382,8 @@ lift up
 up his
 his head
 head .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -37464,7 +37571,8 @@ His praise
 praise endures
 endures forever
 forever !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -37654,7 +37762,8 @@ the wicked
 wicked will
 will perish
 perish !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -37797,7 +37906,8 @@ children .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM When
 When Israel
 Israel went
 went out
@@ -37918,7 +38028,8 @@ a spring
 spring of
 of water
 water .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Not
 Not to
 to us
 us ,
@@ -38237,7 +38348,8 @@ forevermore .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I love
 love the
 the LORD
@@ -38606,7 +38718,8 @@ forever .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Oh
 Oh give
 give thanks
 thanks to
@@ -39131,7 +39244,8 @@ steadfast love
 love endures
 endures forever
 forever !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Blessed
 Blessed are
 are those
 those whose
@@ -39244,7 +39358,8 @@ not utterly
 utterly forsake
 forsake me
 me !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Beth
 Beth How
 How can
 can a
@@ -39364,7 +39479,8 @@ not forget
 forget your
 your word
 word .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Gimel
 Gimel Deal
 Deal bountifully
 bountifully with
@@ -39479,7 +39595,8 @@ they are
 are my
 my counselors
 counselors .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Daleth
 Daleth My
 My soul
 soul clings
@@ -39603,7 +39720,8 @@ you enlarge
 enlarge my
 my heart
 heart !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM He
 He Teach
 Teach me
 me ,
@@ -39730,7 +39848,8 @@ righteousness give
 give me
 me life
 life !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Waw
 Waw Let
 Let your
 your steadfast
@@ -39868,7 +39987,8 @@ meditate on
 on your
 your statutes
 statutes .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Zayin
 Zayin Remember
 Remember your
 your word
@@ -39989,7 +40109,8 @@ have kept
 kept your
 your precepts
 precepts .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Heth
 Heth The
 The LORD
 LORD is
@@ -40112,7 +40233,8 @@ teach me
 me your
 your statutes
 statutes !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Teth
 Teth You
 You have
 have dealt
@@ -40235,7 +40357,8 @@ gold and
 and silver
 silver pieces
 pieces .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Yodh
 Yodh Your
 Your hands
 hands have
@@ -40387,7 +40510,8 @@ be put
 put to
 to shame
 shame !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Kaph
 Kaph My
 My soul
 soul longs
@@ -40522,7 +40646,8 @@ testimonies of
 of your
 your mouth
 mouth .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Lamedh
 Lamedh Forever
 Forever ,
 , O
@@ -40648,7 +40773,8 @@ commandment is
 is exceedingly
 exceedingly broad
 broad .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Mem
 Mem Oh
 Oh how
 how I
@@ -40771,7 +40897,8 @@ hate every
 every false
 false way
 way .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Nun
 Nun Your
 Your word
 word is
@@ -40900,7 +41027,8 @@ forever ,
 to the
 the end
 end .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Samekh
 Samekh I
 I hate
 hate the
@@ -41036,7 +41164,8 @@ afraid of
 of your
 your judgments
 judgments .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Ayin
 Ayin I
 I have
 have done
@@ -41160,7 +41289,8 @@ hate every
 every false
 false way
 way .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Pe
 Pe Your
 Your testimonies
 testimonies are
@@ -41282,7 +41412,8 @@ not keep
 keep your
 your law
 law .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Tsadhe
 Tsadhe Righteous
 Righteous are
 are you
@@ -41387,7 +41518,8 @@ that I
 I may
 may live
 live .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Qoph
 Qoph With
 With my
 my whole
@@ -41522,7 +41654,8 @@ have founded
 founded them
 them forever
 forever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Resh
 Resh Look
 Look on
 on my
@@ -41652,7 +41785,8 @@ righteous rules
 rules endures
 endures forever
 forever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Princes
 Princes persecute
 persecute me
 me without
@@ -41760,7 +41894,8 @@ ways are
 are before
 before you
 you .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Taw
 Taw Let
 Let my
 my cry
@@ -41890,7 +42025,8 @@ not forget
 forget your
 your commandments
 commandments .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM In
 In my
 my distress
 distress I
@@ -42000,7 +42136,8 @@ they are
 are for
 for war
 war !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I lift
 lift up
 up my
@@ -42131,7 +42268,8 @@ the House
 House of
 of the
 the LORD
-LORD END_OF_PSALM
+LORD END_PSALM
+BEGIN_PSALM I
 I was
 was glad
 glad when
@@ -42288,7 +42426,8 @@ to the
 the LORD
 LORD Our
 Our God
-God END_OF_PSALM
+God END_PSALM
+BEGIN_PSALM To
 To you
 you I
 I lift
@@ -42406,7 +42545,8 @@ the Name
 Name of
 of the
 the LORD
-LORD END_OF_PSALM
+LORD END_PSALM
+BEGIN_PSALM If
 If it
 it had
 had not
@@ -42542,7 +42682,8 @@ made heaven
 heaven and
 and earth
 earth .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Those
 Those who
 who trust
 trust in
@@ -42653,7 +42794,8 @@ Peace be
 be upon
 upon Israel
 Israel !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM When
 When the
 the LORD
 LORD restored
@@ -42766,7 +42908,8 @@ his sheaves
 sheaves with
 with him
 him .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Unless
 Unless the
 the LORD
 LORD builds
@@ -42895,7 +43038,8 @@ Everyone Who
 Who Fears
 Fears the
 the LORD
-LORD END_OF_PSALM
+LORD END_PSALM
+BEGIN_PSALM Blessed
 Blessed is
 is everyone
 everyone who
@@ -43011,7 +43155,8 @@ Afflicted Me
 Me from
 from My
 My Youth
-Youth END_OF_PSALM
+Youth END_PSALM
+BEGIN_PSALM "Greatly
 "Greatly have
 have they
 they afflicted
@@ -43146,7 +43291,8 @@ of the
 the LORD
 LORD !
 ! "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM Out
 Out of
 of the
 the depths
@@ -43280,7 +43426,8 @@ from all
 all his
 his iniquities
 iniquities .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , my
@@ -43354,7 +43501,8 @@ time forth
 forth and
 and forevermore
 forevermore .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Remember
 Remember ,
 , O
 O LORD
@@ -43678,7 +43826,8 @@ crown will
 will shine
 shine .
 . "
-" END_OF_PSALM
+" END_PSALM
+BEGIN_PSALM Behold
 Behold ,
 , how
 how good
@@ -43751,7 +43900,8 @@ blessing ,
 , life
 life forevermore
 forevermore .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Come
 Come ,
 , bless
 bless the
@@ -43803,7 +43953,8 @@ made heaven
 heaven and
 and earth
 earth !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -44184,7 +44335,8 @@ Jerusalem !
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Give
 Give thanks
 thanks to
 to the
@@ -44786,7 +44938,8 @@ them against
 against the
 the rock
 rock !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I give
 give you
 you thanks
@@ -44993,7 +45146,8 @@ God ,
 and Know
 Know My
 My Heart
-Heart END_OF_PSALM
+Heart END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , you
@@ -45463,7 +45617,8 @@ in the
 the way
 way everlasting
 everlasting !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Deliver
 Deliver me
 me ,
 , O
@@ -45744,7 +45899,8 @@ dwell in
 in your
 your presence
 presence .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM O
 O LORD
 LORD ,
 , I
@@ -45981,7 +46137,8 @@ I pass
 pass by
 by safely
 safely .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM With
 With my
 my voice
 voice I
@@ -46153,7 +46310,8 @@ deal bountifully
 bountifully with
 with me
 me .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Hear
 Hear my
 my prayer
 prayer ,
@@ -46438,7 +46596,8 @@ I am
 am your
 your servant
 servant .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Blessed
 Blessed be
 be the
 the LORD
@@ -46762,7 +46921,8 @@ God is
 is the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM I
 I will
 will extol
 extol you
@@ -47141,7 +47301,8 @@ name forever
 forever and
 and ever
 ever .
-. END_OF_PSALM
+. END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -47349,7 +47510,8 @@ generations .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -47688,7 +47850,8 @@ rules .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -47918,7 +48081,8 @@ him .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -48071,7 +48235,8 @@ ones .
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
+BEGIN_PSALM Praise
 Praise the
 the LORD
 LORD !
@@ -48156,4 +48321,4 @@ LORD !
 Praise the
 the LORD
 LORD !
-! END_OF_PSALM
+! END_PSALM
